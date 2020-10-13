@@ -1,0 +1,4 @@
+loginAzure: cjfsoftware@outlook.com       
+senha:M2@s0ftware               
+usuárioVM: CJF           
+senha:M2@s0ftware
